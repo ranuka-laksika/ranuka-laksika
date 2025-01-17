@@ -1,6 +1,6 @@
 ![logo](https://github.com/ranuka-laksika/ranuka-laksika/blob/main/Channel_Profile_1.png)
 <h1 align="center">Hi 👋, I'm Ranuka Ranasinghe</h1>
-<h3 align="center">I am a Passionate Machine Learning and Robotic Engineer in Sri Lanka.</h3>
+<h3 align="center">I am a Passionate Software and Machine Learning Engineer </h3>
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.666f1c8cc46426f8a7f7f0cae9ca9bc4?rik=QkRuo19FjiS53g&riu=http%3a%2f%2fmedia-s3-us-east-1.ceros.com%2faspencore%2fimages%2f2019%2f01%2f04%2feba390aab3b0e636eeb47861adc1d520%2frobot-waving.gif&ehk=Qr9IkH6taeLPgRYNnmi5lsOSQxvK1eCRffKEd6v%2fRVE%3d&risl=&pid=ImgRaw&r=0">
 
